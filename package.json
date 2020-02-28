@@ -1,0 +1,23 @@
+{
+  "name": "hotresturant",
+  "version": "1.0.0",
+  "description": "class activity",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcwithac27/HotResturant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcwithac27/HotResturant/issues"
+  },
+  "homepage": "https://github.com/marcwithac27/HotResturant#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
